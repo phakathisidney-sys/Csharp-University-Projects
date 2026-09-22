@@ -1,0 +1,5 @@
+C:\Users\2701842\Desktop\2701842ClassExample2\obj\Debug\2701842ClassExample2.csproj.AssemblyReference.cache
+C:\Users\2701842\Desktop\2701842ClassExample2\obj\Debug\_2701842ClassExample2.Form1.resources
+C:\Users\2701842\Desktop\2701842ClassExample2\obj\Debug\_2701842ClassExample2.Properties.Resources.resources
+C:\Users\2701842\Desktop\2701842ClassExample2\obj\Debug\2701842ClassExample2.csproj.GenerateResource.cache
+C:\Users\2701842\Desktop\2701842ClassExample2\obj\Debug\2701842ClassExample2.csproj.CoreCompileInputs.cache

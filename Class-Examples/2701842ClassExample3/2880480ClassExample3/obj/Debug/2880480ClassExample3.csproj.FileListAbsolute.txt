@@ -1,0 +1,20 @@
+C:\Users\njabu\source\repos\2880480ClassExample3\obj\Debug\2880480ClassExample3.csproj.AssemblyReference.cache
+C:\Users\njabu\source\repos\2880480ClassExample3\obj\Debug\_2880480ClassExample3.ClassEg3.resources
+C:\Users\njabu\source\repos\2880480ClassExample3\obj\Debug\_2880480ClassExample3.Properties.Resources.resources
+C:\Users\njabu\source\repos\2880480ClassExample3\obj\Debug\2880480ClassExample3.csproj.GenerateResource.cache
+C:\Users\njabu\source\repos\2880480ClassExample3\obj\Debug\2880480ClassExample3.csproj.CoreCompileInputs.cache
+C:\Users\njabu\source\repos\2880480ClassExample3\bin\Debug\2880480ClassExample3.exe.config
+C:\Users\njabu\source\repos\2880480ClassExample3\bin\Debug\2880480ClassExample3.exe
+C:\Users\njabu\source\repos\2880480ClassExample3\bin\Debug\2880480ClassExample3.pdb
+C:\Users\njabu\source\repos\2880480ClassExample3\obj\Debug\2880480ClassExample3.exe
+C:\Users\njabu\source\repos\2880480ClassExample3\obj\Debug\2880480ClassExample3.pdb
+C:\Users\njabu\OneDrive\Documents\Information Systems\2880480ClassExample3\bin\Debug\2880480ClassExample3.exe.config
+C:\Users\njabu\OneDrive\Documents\Information Systems\2880480ClassExample3\bin\Debug\2880480ClassExample3.exe
+C:\Users\njabu\OneDrive\Documents\Information Systems\2880480ClassExample3\bin\Debug\2880480ClassExample3.pdb
+C:\Users\njabu\OneDrive\Documents\Information Systems\2880480ClassExample3\obj\Debug\2880480ClassExample3.csproj.AssemblyReference.cache
+C:\Users\njabu\OneDrive\Documents\Information Systems\2880480ClassExample3\obj\Debug\_2880480ClassExample3.ClassEg3.resources
+C:\Users\njabu\OneDrive\Documents\Information Systems\2880480ClassExample3\obj\Debug\_2880480ClassExample3.Properties.Resources.resources
+C:\Users\njabu\OneDrive\Documents\Information Systems\2880480ClassExample3\obj\Debug\2880480ClassExample3.csproj.GenerateResource.cache
+C:\Users\njabu\OneDrive\Documents\Information Systems\2880480ClassExample3\obj\Debug\2880480ClassExample3.csproj.CoreCompileInputs.cache
+C:\Users\njabu\OneDrive\Documents\Information Systems\2880480ClassExample3\obj\Debug\2880480ClassExample3.exe
+C:\Users\njabu\OneDrive\Documents\Information Systems\2880480ClassExample3\obj\Debug\2880480ClassExample3.pdb

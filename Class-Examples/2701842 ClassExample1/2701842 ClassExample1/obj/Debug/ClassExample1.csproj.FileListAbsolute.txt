@@ -1,0 +1,10 @@
+C:\Users\2701842\Desktop\ClassExample1\bin\Debug\ClassExample1.exe.config
+C:\Users\2701842\Desktop\ClassExample1\bin\Debug\ClassExample1.exe
+C:\Users\2701842\Desktop\ClassExample1\bin\Debug\ClassExample1.pdb
+C:\Users\2701842\Desktop\ClassExample1\obj\Debug\ClassExample1.csproj.AssemblyReference.cache
+C:\Users\2701842\Desktop\ClassExample1\obj\Debug\ClassExample1.ClassEg1.resources
+C:\Users\2701842\Desktop\ClassExample1\obj\Debug\ClassExample1.Properties.Resources.resources
+C:\Users\2701842\Desktop\ClassExample1\obj\Debug\ClassExample1.csproj.GenerateResource.cache
+C:\Users\2701842\Desktop\ClassExample1\obj\Debug\ClassExample1.csproj.CoreCompileInputs.cache
+C:\Users\2701842\Desktop\ClassExample1\obj\Debug\ClassExample1.exe
+C:\Users\2701842\Desktop\ClassExample1\obj\Debug\ClassExample1.pdb
