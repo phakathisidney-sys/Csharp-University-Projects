@@ -1,0 +1,30 @@
+C:\Users\09400167\source\repos\ISIB2024PracTest1B\bin\Debug\ISIB2024PracTest1B.exe.config
+C:\Users\09400167\source\repos\ISIB2024PracTest1B\bin\Debug\ISIB2024PracTest1B.exe
+C:\Users\09400167\source\repos\ISIB2024PracTest1B\bin\Debug\ISIB2024PracTest1B.pdb
+C:\Users\09400167\source\repos\ISIB2024PracTest1B\obj\Debug\ISIB2024PracTest1B.csproj.AssemblyReference.cache
+C:\Users\09400167\source\repos\ISIB2024PracTest1B\obj\Debug\ISIB2024PracTest1B.Form1.resources
+C:\Users\09400167\source\repos\ISIB2024PracTest1B\obj\Debug\ISIB2024PracTest1B.Properties.Resources.resources
+C:\Users\09400167\source\repos\ISIB2024PracTest1B\obj\Debug\ISIB2024PracTest1B.csproj.GenerateResource.cache
+C:\Users\09400167\source\repos\ISIB2024PracTest1B\obj\Debug\ISIB2024PracTest1B.csproj.CoreCompileInputs.cache
+C:\Users\09400167\source\repos\ISIB2024PracTest1B\obj\Debug\ISIB2024PracTest1B.exe
+C:\Users\09400167\source\repos\ISIB2024PracTest1B\obj\Debug\ISIB2024PracTest1B.pdb
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\ISIB2024PracTest1B\bin\Debug\ISIB2024PracTest1B.exe.config
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\ISIB2024PracTest1B\bin\Debug\ISIB2024PracTest1B.exe
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\ISIB2024PracTest1B\bin\Debug\ISIB2024PracTest1B.pdb
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\ISIB2024PracTest1B\obj\Debug\ISIB2024PracTest1B.csproj.AssemblyReference.cache
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\ISIB2024PracTest1B\obj\Debug\ISIB2024PracTest1B.Form1.resources
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\ISIB2024PracTest1B\obj\Debug\ISIB2024PracTest1B.Properties.Resources.resources
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\ISIB2024PracTest1B\obj\Debug\ISIB2024PracTest1B.csproj.GenerateResource.cache
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\ISIB2024PracTest1B\obj\Debug\ISIB2024PracTest1B.csproj.CoreCompileInputs.cache
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\ISIB2024PracTest1B\obj\Debug\ISIB2024PracTest1B.exe
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\ISIB2024PracTest1B\obj\Debug\ISIB2024PracTest1B.pdb
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\2701842\bin\Debug\ISIB2024PracTest1B.exe.config
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\2701842\bin\Debug\ISIB2024PracTest1B.exe
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\2701842\bin\Debug\ISIB2024PracTest1B.pdb
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\2701842\obj\Debug\ISIB2024PracTest1B.csproj.AssemblyReference.cache
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\2701842\obj\Debug\ISIB2024PracTest1B.Form1.resources
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\2701842\obj\Debug\ISIB2024PracTest1B.Properties.Resources.resources
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\2701842\obj\Debug\ISIB2024PracTest1B.csproj.GenerateResource.cache
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\2701842\obj\Debug\ISIB2024PracTest1B.csproj.CoreCompileInputs.cache
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\2701842\obj\Debug\ISIB2024PracTest1B.exe
+C:\Users\2701842\Desktop\ISIB2024PracTest1B- DOWNLOAD\2701842\obj\Debug\ISIB2024PracTest1B.pdb
